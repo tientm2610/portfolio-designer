@@ -19,7 +19,7 @@ const CategoryCard: React.FC<Props> = ({ category, onClick }) => {
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      className="group relative overflow-hidden rounded-2xl aspect-[4/3] bg-card border border-white/5"
+      className="group relative overflow-hidden rounded-2xl aspect-[4/3] bg-card border border-white/5 cursor-pointer"
     >
       {/* Background Image */}
       {bgImgPreview && (

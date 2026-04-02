@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Hero from './components/sections/Hero';
 import CategoryCard from './components/CategoryCard';
 import ProjectPopup from './components/ProjectPopup';
