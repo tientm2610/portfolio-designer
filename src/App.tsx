@@ -12,6 +12,7 @@ function App() {
   const [activeCategory, setActiveCategory] = useState<Category | null>(null);
 
   useEffect(() => {
+    document.title = CONFIG.PERSONAL.NICKNAME + " | Portfolio";
     async function loadData() {
       const data = await fetchPortfolioData();
       setCategories(data);
