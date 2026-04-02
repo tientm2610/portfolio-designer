@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Dự án Nổi Bật 1",
+    "type": "image",
+    "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/cd23da244700831.699d87b28c894.png",
+    "description": "Mô tả ngắn gọn về dự án."
+  },
+  {
+    "id": "2",
+    "title": "Video Quảng Cáo",
+    "type": "video",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "Đây là video mẫu."
+  },
+  {
+    "id": "3",
+    "title": "Thiết Kế Nhận Diện",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?q=80&w=2670&auto=format&fit=crop",
+    "description": "Mô tả ngắn gọn về dự án."
+  }
+]
